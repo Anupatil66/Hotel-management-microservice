@@ -5,7 +5,7 @@
     instance:
       prefer-ip-address: true
     client:
-      fetch-registry: ture
+      fetch-registry: false
       register-with-eureka: true
       service-url:
         defaultZone: http://localhost:8761/eureka
